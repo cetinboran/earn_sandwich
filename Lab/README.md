@@ -23,7 +23,6 @@ This simulation demonstrates how a **sandwich attack** works in a decentralized 
 | File        | Description                                                         |
 | ----------- | ------------------------------------------------------------------- |
 | `main.go`   | Core simulation logic for modeling victim and attacker transactions |
-| `types.go`  | Contains basic data structures like `Transaction` and `Pool`        |
 | `README.md` | Project documentation (you’re reading it!)                          |
 
 ---
